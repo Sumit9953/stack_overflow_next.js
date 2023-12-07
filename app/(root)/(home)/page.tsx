@@ -6,4 +6,4 @@ export default function Home() {
       <UserButton afterSignOutUrl="/"/>
     </div>
   )
-}
+} 
